@@ -30,5 +30,33 @@ console.log("Boolean datatype:");
 console.log("Is JavaScript fun?", isJavaScriptFun);
 console.log("Is fish tasty?", isFishTasty); 
 
+//Null datatype
+
+let moting = null;
+console.log("Null datatype:");
+
+//Undefined datatype
+
+let notAssigned;
+console.log("Undefined datatype:");
+console.log("Not assigned variable:", notAssigned);
+
+//Object datatype
+let person = {
+    name: "Rahaa",
+    age: 25
+};
+console.log("Object datatype:");
+
+//Symbol datatype
+let sym = Symbol("unique");
+console.log("Symbol datatype:");
+
+//BigInt datatype
+let bigIntNum = BigInt(9007199254740991);
+console.log("BigInt datatype:");
+
+
+
 
 
