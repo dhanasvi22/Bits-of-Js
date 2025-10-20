@@ -21,3 +21,5 @@ console.log(x%y);
 // /=	x /= y	x = x / y	x = 2
 // %=	x %= y	x = x % y	x = 0
 // :	x: 45	size.x = 45	x = 45
+
+//opratiors
